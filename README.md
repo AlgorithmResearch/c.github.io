@@ -1,1 +1,1 @@
-<img src="file:///C:/Users/ketak/Documents/GitHub/c.github.io/cereal.html">
+<img src="C:/Users/ketak/Documents/GitHub/c.github.io/cereal.html">
